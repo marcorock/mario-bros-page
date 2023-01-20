@@ -13,6 +13,7 @@
 
 <a id="ancora2">Configurando as chaves no GitHub</a>
 
+<<<<<<< Updated upstream
 [Topo](#ancora)
 
 
@@ -21,3 +22,6 @@
 [Comandos do Git que você precisa conhecer - Parte 2 - Repositórios Remotos](https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-2-repositorios-remotos)
 
 [Git Branching e merge: Guia passo a passo](https://www.varonis.com/pt-br/blog/git-branching)
+=======
+[Topo](#ancora)
+>>>>>>> Stashed changes
