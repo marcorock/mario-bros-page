@@ -1,27 +1,9 @@
-# Projeto Landing Page Mario Bros baseado no filme de 2023
+# Projeto Landing Page Mario Bros
 ---
-<a id="ancora"></a>
-## Índice
- - [Criando as Chaves SSH](#ancora1)
- - [Configurando as chaves no GitHub](#ancora2)
+ - Projeto baseado no filme de 2023.
 
+Nele usamos os conceitos básicos de HTML5 CSS3 e JavaScript, com a intenção de estudar minimamente as linguagens usadas no projeto.
 
----
-<a id="ancora1">Criando as Chaves SSH</a>
+[Preview do Projeto](https://marcorock.github.io/mario-bros-page/)
 
-[Topo](#ancora)
-
-<a id="ancora2">Configurando as chaves no GitHub</a>
-
-<<<<<<< Updated upstream
-[Topo](#ancora)
-
-
-- Referências
-
-[Comandos do Git que você precisa conhecer - Parte 2 - Repositórios Remotos](https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-2-repositorios-remotos)
-
-[Git Branching e merge: Guia passo a passo](https://www.varonis.com/pt-br/blog/git-branching)
-=======
-[Topo](#ancora)
->>>>>>> Stashed changes
+## Alguns conceitos abordados:
